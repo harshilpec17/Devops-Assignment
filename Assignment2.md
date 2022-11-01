@@ -16,7 +16,7 @@
 
 <p>After doing second step, it will copy the whole data from file2 to file3, as we can see in given screenshot</p>
 
-![Assignment 1 copy](Assignment%201%20copy%20command.png)
+![Assignment 1 copy](./Images/Assignment%201%20copy%20command.png)
 
 Note: cat command will show the file in terminal
 
@@ -35,7 +35,7 @@ In a linux environment, move command is work as copy all data from old file to n
 
 </p>
 
-![Assignment 2](Assignment%202.png)
+![Assignment 2](./Images/Assignment%202.png)
 
 ### 4. Then we create a new file3.txt and file4.txt in home directory and add content in it.
 
@@ -50,9 +50,9 @@ In a linux environment, move command is work as copy all data from old file to n
 
 There is no difference in the both command.
 
-![Assignment Question 3-1](Assignment%20question%203-1.png)
+![Assignment Question 3-1](./Images/Assignment%20question%203-1.png)
 
-![Assignment Question 3-2](Assignment%20question%203-2.png)
+![Assignment Question 3-2](./Images/Assignment%20question%203-2.png)
 
 ### 5. For remove a file or directory you can use the below two commands
 
